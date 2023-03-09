@@ -4,7 +4,7 @@ from interface.interface import Gui
     "название_итогового_файла": "Материалы.xlsx",
     "path_to_file": "Спецификация.xlsx",
     "path_to_folder": "D:/работа/проекты текущие/",
-    "path_to_library": 'D:/Python/2 Библиотека/Библиотека.xlsx',
+    "path_to_library": 'library/Библиотека.xlsx',
     "main_library_sheet": "Материалы",
     "local_library_sheet": "Библиотека",
     "sheet_name": "Узлы",

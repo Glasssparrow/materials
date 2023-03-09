@@ -8,7 +8,7 @@ class Gui:
         "Здесь\nбудет\nсписок\n"
         "материалов\nкоторые\nотсутствуют\nв библиотеке"
     )
-    title_text = "Потом придумаю"
+    title_text = "Подсчет материалов"
 
     @staticmethod
     def _cut_filename(path_to_file):
